@@ -50,9 +50,9 @@ Each row in this file includes in this order target name, alterations associated
 
 Using this parameters:
 
-alteration_file = './CCLE_MUT_CNA_AMP_DEL_binary_Revealer.gct' (provided)
+alteration_file = './CCLE_MUT_CNA_AMP_DEL_binary_Revealer.gct' (provided in folder 'Example')
 
-target_file = './Mek_test.txt' (provided)
+target_file = './Mek_test.txt' (provided in folder 'Example')
 
 folder_results = './UNCOVER/'
 
